@@ -265,6 +265,9 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 
 - Staking Services
   - [KTON](https://kton.io/) - Next-Gen Liquid Staking for TON.
+  - 
+- **RANNTA** — TON-native jetton and protocol-entity powering a creator-first NFT marketplace  
+  Website: https://ranntaverse.art
 
 - Address Management
   - [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for TON wallets.
